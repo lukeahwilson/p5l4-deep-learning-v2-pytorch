@@ -1,4 +1,4 @@
-name: base
+name: udacity-pytorch-labwork
 channels:
   - defaults
 dependencies:
@@ -369,7 +369,8 @@ dependencies:
   - zope.interface=5.4.0=py38h2bbff1b_0
   - zstd=1.4.9=h19a0ad4_0
   - pip:
+    - opencv-python==4.5.3.56
     - pillow==8.0.1
     - torch==1.8.1
     - torchvision==0.9.1
-prefix: C:\Users\lukea\anaconda3
+prefix: C:\Users\lukea\anaconda3\envs\udacity-pytorch-labwork
