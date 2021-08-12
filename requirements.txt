@@ -1,4 +1,4 @@
-opencv-python
+py-opencv
 jupyter
 matplotlib
 pandas
